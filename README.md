@@ -28,7 +28,7 @@
 ## 🛠 Tech Stack & Tools
 
 <details open>
-<summary><b>🧠 AI, GeoAI & Data Science</b></summary>
+<summary><b>🧠 AI, SA & Data Science</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
