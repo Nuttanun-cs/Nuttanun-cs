@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-> **Academic Lecturer & Researcher** specializing in **AI, GeoAI, Large Language Models (LLMs), Remote Sensing,** and **Data Science** applied to **Disaster Management**. Passionate about building robust fullstack applications, autonomous AI agent workflows, and cloud-native software architecture.
+> **Computer Science** undergrad with a strong passion for **Systems Analysis and process design.** I love breaking down complex user needs into clear, actionable system architectures. Ready to turn big ideas into efficient tech roadmaps. 🚀📐
 
 * 🎓 **Role:** Academic Lecturer & PhD Candidate in Computer Science & Applied Geoinformatics
 * 🔬 **Research Focus:** GeoAI, Spatial Analytics, LLM Architectures & Remote Sensing
